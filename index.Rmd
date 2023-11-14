@@ -1,10 +1,10 @@
 ---
 title: <br>Corpus management
 subtitle: "<i>Good practices, tips & tricks</i>"
-date: .date[October 2023]
+date: .date[December 2023]
 author: |
   .author[Nicolas Casajus]
-  .email[nicolas.casajus@fondationbiodiversite.fr]
+  .email[Data scientist @ FRB-CESAB<br />nicolas.casajus@fondationbiodiversite.fr]
 output:
   xaringan::moon_reader:
     css: ["css/xaringan-themer.css", "css/custom.css"]
